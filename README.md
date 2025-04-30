@@ -85,10 +85,9 @@ reader.c
     }
 
 ## OUTPUT
+![Screenshot 2025-04-30 140305](https://github.com/user-attachments/assets/11dbc88b-5b0a-4283-9701-d12f4384ee2f)
 
-![Screenshot 2025-04-30 140305](https://github.com/user-attachments/assets/b7e7942e-efd0-4d44-bbdc-76dc9162be1b)
-![Screenshot 2025-04-30 140242](https://github.com/user-attachments/assets/cd05cf20-64ec-49c1-a942-b33394a5af0c)
-
+![image](https://github.com/user-attachments/assets/852a9bb9-248b-42ec-8e66-82ab82e41a82)
 
 
 # RESULT:
